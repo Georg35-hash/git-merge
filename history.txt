@@ -1,0 +1,45 @@
+  466  cd/git-merge
+  467  cd "c\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\git-merge/git-merge"
+  468  cd "c\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\git-merge/git"
+  469  cd "c/git-merge"
+  470  cd "C:\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\git-merge\git-merge"
+  471  git branch -m feature
+  472  git add README.md .gitignore
+  473  git add .gitignore
+  474  touch .gitignore .README.md
+  475  git commit -m "Added a new commit"
+  476  git add .
+  477  git commit -m "Added a new commit"
+  478  git push origin feature
+  479  git checkedout
+  480  git checkout feature
+  481  git branch -m main
+  482  git push origin main
+  483  git branch feature
+  484  git branch -m feature
+  485  git checkout feature
+  486  commit --amend "ammend"
+  487  git commit --amend "ammend"
+  488  git status
+  489  git commit --ammend 
+  490  git commit --ammend "ammend"
+  491  git commit --amend "ammend"
+  492  git commit --amend -m "ammend"
+  493  git checkout main
+  494  git merge feature
+  495  git merge feature
+  496  git merge feature --allow-unrelated-histories
+  497  cd "C:\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\git-merge\git-merge"
+  498  git merge feature
+  499  git add .
+  500  git commit 
+  501  cd "C:\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\git-merge\git-merge"
+  502  git commit -m "Merge"
+  503  git merge feature
+  504  touch history.txt
+  505  history > history.txt
+  506  cat history
+  507  cat history.txt
+  508  history | tail -n 30 > history.txt
+  509  history | tail -n 50 > history.txt
+  510  history | tail -n 45 > history.txt
